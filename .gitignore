@@ -1,3 +1,4 @@
 config
 inswapper_128.onnx
 avatarify
+.env
